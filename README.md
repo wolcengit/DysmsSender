@@ -23,7 +23,7 @@ By wolcen@msn.com
 ```json
 {
 	"accessKey":"1234567890",
-	"accessSecret":"0987654321"
+	"accessSecret":"0987654321",
 	"rowStart":"1",
 	"rowEnd":"12",
 	"templateCode":"SMS_12132",
